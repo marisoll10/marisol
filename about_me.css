@@ -1,0 +1,23 @@
+h1{
+  font-family: 'Calistoga', cursive;
+  border: 15px ridge ;
+  width: 10%;
+  text-align: center;
+}
+body{
+  background:rgba(162, 161, 236, 0.678);
+
+}
+h4{
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+}
+#saints{
+  padding-left: 100px;
+}
+#tennis{
+  padding-left: 700px;
+}
+a{
+  border: dotted darkorchid;
+}

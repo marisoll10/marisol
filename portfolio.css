@@ -1,0 +1,16 @@
+h1{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  border: thin;
+}
+body{
+  background-color: rgb(255, 255, 154);
+}
+#about{
+border: dotted darkorchid;
+text-align: left;
+}
+#home{
+  border: dotted darkorchid;
+  text-align: right;
+}
